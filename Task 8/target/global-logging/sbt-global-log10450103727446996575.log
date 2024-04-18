@@ -1,0 +1,4 @@
+[debug] > Exec(__stopWatch network-3, None, None)
+[debug] jsonRpcNotify: JsonRpcNotificationMessage(2.0, shutdown, [false,null])
+[debug] > Exec(shell, None, None)
+[debug] Forcing garbage collection...

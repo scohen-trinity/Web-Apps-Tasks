@@ -1,0 +1,17 @@
+2023.10.19 15:08:36 INFO  Started: Metals version 1.1.0 in folders 'C:\Users\sammy\Downloads\Web Apps\In Class' for client Visual Studio Code 1.83.1.
+Oct 19, 2023 3:08:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+Oct 19, 2023 3:08:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2023.10.19 15:08:38 WARN  Build server is not auto-connectable.
+2023.10.19 15:08:38 WARN  no build target for: C:\Users\sammy\Downloads\Web Apps\In Class\webapps-inclass-charger-trinity\server\app\controllers\Application.scala
+2023.10.19 15:08:46 INFO  no build target found for C:\Users\sammy\Downloads\Web Apps\In Class\webapps-inclass-charger-trinity\server\app\controllers\Application.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2023.10.19 15:08:50 INFO  time: code lens generation in 10s
+2023.10.19 15:09:22 INFO  time: code lens generation in 1.27s
+2023.10.19 15:10:00 WARN  no build target for: C:\Users\sammy\Downloads\Web Apps\In Class\webapps-inclass-charger-trinity\server\app\controllers\Application.scala
+2023.10.19 15:10:00 WARN  no build target for: C:\Users\sammy\Downloads\Web Apps\In Class\webapps-inclass-charger-trinity\server\app\controllers\Application.scala
+2023.10.19 15:15:56 WARN  no build target for: C:\Users\sammy\Downloads\Web Apps\In Class\webapps-inclass-charger-trinity\server\app\models\CountingModel.scala
+2023.10.19 15:16:01 WARN  no build target for: C:\Users\sammy\Downloads\Web Apps\In Class\webapps-inclass-charger-trinity\server\app\models\CountingModel.scala
+2023.10.19 15:25:05 INFO  Shutting down server
+2023.10.19 15:25:05 INFO  shutting down Metals
+2023.10.19 15:25:05 INFO  Exiting server

@@ -1,0 +1,4 @@
+[debug] [task-5-test] Classpath dependencies List()
+[debug] [task-5-test] Dependencies from configurations List(task-5)
+[debug] Bloop wrote the configuration of project 'task-5-test' to 'C:\Users\sammy\Downloads\Web Apps\Task 5\.bloop\task-5-test.json'
+[success] Generated .bloop\task-5-test.json

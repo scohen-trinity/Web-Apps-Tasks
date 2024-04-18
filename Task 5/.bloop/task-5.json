@@ -1,0 +1,151 @@
+{
+    "version": "1.4.0",
+    "project": {
+        "name": "task-5",
+        "directory": "C:\\Users\\sammy\\Downloads\\Web Apps\\Task 5",
+        "workspaceDir": "C:\\Users\\sammy\\Downloads\\Web Apps\\Task 5",
+        "sources": [
+            "C:\\Users\\sammy\\Downloads\\Web Apps\\Task 5\\src\\main\\scala",
+            "C:\\Users\\sammy\\Downloads\\Web Apps\\Task 5\\src\\main\\scala-2.12",
+            "C:\\Users\\sammy\\Downloads\\Web Apps\\Task 5\\src\\main\\scala-2",
+            "C:\\Users\\sammy\\Downloads\\Web Apps\\Task 5\\src\\main\\java",
+            "C:\\Users\\sammy\\Downloads\\Web Apps\\Task 5\\target\\scala-2.12\\src_managed\\main"
+        ],
+        "dependencies": [
+            
+        ],
+        "classpath": [
+            "C:\\Users\\sammy\\.sbt\\boot\\scala-2.12.15\\lib\\scala-library.jar"
+        ],
+        "out": "C:\\Users\\sammy\\Downloads\\Web Apps\\Task 5\\.bloop\\task-5",
+        "classesDir": "C:\\Users\\sammy\\Downloads\\Web Apps\\Task 5\\.bloop\\task-5\\scala-2.12\\classes",
+        "resources": [
+            "C:\\Users\\sammy\\Downloads\\Web Apps\\Task 5\\src\\main\\resources",
+            "C:\\Users\\sammy\\Downloads\\Web Apps\\Task 5\\target\\scala-2.12\\resource_managed\\main"
+        ],
+        "scala": {
+            "organization": "org.scala-lang",
+            "name": "scala-compiler",
+            "version": "2.12.15",
+            "options": [
+                
+            ],
+            "jars": [
+                "C:\\Users\\sammy\\.sbt\\boot\\scala-2.12.15\\lib\\scala-library.jar",
+                "C:\\Users\\sammy\\.sbt\\boot\\scala-2.12.15\\lib\\scala-compiler.jar",
+                "C:\\Users\\sammy\\.sbt\\boot\\scala-2.12.15\\lib\\scala-reflect.jar",
+                "C:\\Users\\sammy\\.sbt\\boot\\scala-2.12.15\\lib\\scala-xml_2.12-1.0.6.jar"
+            ],
+            "setup": {
+                "order": "mixed",
+                "addLibraryToBootClasspath": true,
+                "addCompilerToClasspath": false,
+                "addExtraJarsToClasspath": false,
+                "manageBootClasspath": true,
+                "filterLibraryFromClasspath": true
+            }
+        },
+        "java": {
+            "options": [
+                
+            ]
+        },
+        "test": {
+            "frameworks": [
+                {
+                    "names": [
+                        "org.scalacheck.ScalaCheckFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs2.runner.Specs2Framework",
+                        "org.specs2.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.scalatest.tools.Framework",
+                        "org.scalatest.tools.ScalaTestFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "com.novocode.junit.JUnitFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "munit.Framework"
+                    ]
+                }
+            ],
+            "options": {
+                "excludes": [
+                    
+                ],
+                "arguments": [
+                    
+                ]
+            }
+        },
+        "platform": {
+            "name": "jvm",
+            "config": {
+                "home": "C:\\Users\\sammy\\.jabba\\jdk\\adopt@1.11.0-11",
+                "options": [
+                    "-Duser.dir=C:\\Users\\sammy\\Downloads\\Web Apps\\Task 5"
+                ]
+            },
+            "mainClass": [
+                
+            ]
+        },
+        "resolution": {
+            "modules": [
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-library",
+                    "version": "2.12.15",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scala-library",
+                            "path": "C:\\Users\\sammy\\.sbt\\boot\\scala-2.12.15\\lib\\scala-library.jar"
+                        },
+                        {
+                            "name": "scala-library",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\sammy\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.12.15\\scala-library-2.12.15-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-library",
+                    "version": "2.12.15",
+                    "configurations": "optional",
+                    "artifacts": [
+                        {
+                            "name": "scala-library",
+                            "path": "C:\\Users\\sammy\\.sbt\\boot\\scala-2.12.15\\lib\\scala-library.jar"
+                        },
+                        {
+                            "name": "scala-library",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\sammy\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.12.15\\scala-library-2.12.15-sources.jar"
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": [
+            "library"
+        ]
+    }
+}

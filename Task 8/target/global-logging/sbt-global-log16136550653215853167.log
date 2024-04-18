@@ -1,0 +1,7 @@
+[debug] > Exec(exit, None, Some(CommandSource(network-3)))
+[debug] unmatched Processing event for requestId None: None
+[debug] unmatched Done event for requestId None: None
+[debug] > Exec(__disconnectNetworkChannel network-3, None, Some(CommandSource(network-3)))
+[debug] unmatched Processing event for requestId None: None
+[debug] jsonRpcNotify: JsonRpcNotificationMessage(2.0, shutdown, [false,null])
+[debug] > Exec(shell, None, None)

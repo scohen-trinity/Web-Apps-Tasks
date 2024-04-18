@@ -1,0 +1,14 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(sbtStashOnFailure, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(sbtMapExec 6 __5d642c19-0062-4ae6-adcb-a340dcc0d402, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(bspBuildTargetDependencySources file:/C:/Users/sammy/Downloads/Web%20Apps/Task%205/#task-5/Test file:/C:/Users/sammy/Downloads/Web%20Apps/Task%205/#task-5/Compile file:/C:/Users/sammy/Downloads/Web%20Apps/Task%205/#task-5-build, Some(__5d642c19-0062-4ae6-adcb-a340dcc0d402), Some(CommandSource(network-1)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":4,"message":"Processing buildTarget/dependencySources"})[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: bspBuildTargetDependencySources[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 5 s, completed Oct 10, 2023, 5:52:56 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(sbtCompleteExec 6, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(resumeFromFailure, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(sbtPopOnFailure, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(sbtReportResult 6, Some(6), Some(CommandSource(network-1)))[0m
+[0m[[0m[0mdebug[0m] [0m[0munmatched Processing event for requestId Some(6): None[0m
+[0m[[0m[0mdebug[0m] [0m[0munmatched json response for requestId Some(6): {"status":"Done","channelName":"network-1","execId":"6","commandQueue":["shell"],"exitCode":0}[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
